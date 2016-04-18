@@ -9,4 +9,4 @@ Comments within the script provide more information.
 
 Written by Tristan Dahn at The Historical Medical Library of The College of Physicians of Philadelphia.
 
-e-mail: tdahn@collegeohphysicians.org
+e-mail: tdahn@collegeofphysicians.org
