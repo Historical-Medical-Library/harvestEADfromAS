@@ -7,6 +7,8 @@ Four parameters must be set within the script before running: the URL of the AS 
 
 Comments within the script provide more information.
 
+Note: for instances with more than one repository, each will need to crawled individually. Another loop could be added to do it programatically, but since the majority of archives I've check use only one, I've left it as it.
+
 Written by Tristan Dahn at The Historical Medical Library of The College of Physicians of Philadelphia.
 
 e-mail: tdahn@collegeofphysicians.org
