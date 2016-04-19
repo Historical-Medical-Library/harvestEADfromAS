@@ -7,7 +7,7 @@ Four parameters must be set within the script before running: the URL of the AS 
 
 Comments within the script provide more information.
 
-Note: for instances with more than one repository, each will need to crawled individually. Another loop could be added to do it programatically, but since the majority of archives I've check use only one, I've left it as it.
+Note: for instances with more than one repository, each will need to crawled individually. Another loop could be added to do it programatically, but since the majority of archives I've check use only one, I've left it as it. Checking for multiple repositories is simple, type the base url followed by /repositories/ and an id, such as http://cpparchives.org/repositories/2, if it exists you will see a listing of all the objects in it, if not you'll be met with an error page.
 
 Written by Tristan Dahn at The Historical Medical Library of The College of Physicians of Philadelphia.
 
