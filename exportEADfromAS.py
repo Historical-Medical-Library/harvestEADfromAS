@@ -8,6 +8,7 @@
 archiveUrl = 'http://cpparchives.org'
 
 #set repository id, most AS instances have the main repository id set to 2, browse the target site to check
+#if exporting multiple repositories you may want to save them in different directories, see lines 36-39
 repoId = '2'
 
 #set resource ID range, set this range larger than the number of resources listed on the target site to account for non-suquential resource ids
