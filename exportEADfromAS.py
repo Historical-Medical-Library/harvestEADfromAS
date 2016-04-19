@@ -32,7 +32,8 @@ curPath = os.getcwd()
 #change to path set above
 os.chdir(path)
 
-#create directory for saving .xml files
+#create directory for saving .xml files, substituting '/EADXML' for '_EADXML' will create a subdirectory
+#if exporting multiple repostories you can save them in different subdirs such as '/EADXML_repo5'
 archiveName = archiveUrl[7:]
 directory = archiveName + '_EADXML'
 
