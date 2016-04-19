@@ -18,7 +18,7 @@ resourceRange = range(1,500)
 path = '/path/to/directory'
 
 #-----------------------------------------------------------
-#nothing needs to be altered from this point on
+#nothing needs to be altered from this point on, unless you want to fork and improve
 
 import urllib.request
 import os
