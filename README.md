@@ -1,4 +1,4 @@
-# exportEADfromAS
+# harvestEADfromAS
 A Python script for writing .xml files in EAD to your local machine from online ArchivesSpace instances.
 
 In order to run the script you will need Python 3.
